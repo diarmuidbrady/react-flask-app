@@ -16,6 +16,8 @@ A simple full-stack web application with a React frontend and a Flask backend. T
 
 ## Project Structure
 
+
+```plaintext
 . ├── client # React frontend
   | ├── public # Static files (e.g., index.html, favicon)
   │ ├── src # React source files
@@ -24,7 +26,7 @@ A simple full-stack web application with a React frontend and a Flask backend. T
   │ ├── server.py # Flask server code 
   │ ├── requirements.txt # Python dependencies 
   ├── docker-compose.yml # Docker Compose configuration
-
+```
 
 
 ## Prerequisites
